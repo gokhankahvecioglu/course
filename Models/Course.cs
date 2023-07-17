@@ -14,6 +14,7 @@ namespace basics.Models
         public string? Image { get; set; }
 
         public string? Description { get; set; }
+        public string? Description3 { get; set; }
 
     }
 
